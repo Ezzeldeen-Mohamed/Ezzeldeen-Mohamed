@@ -1,4 +1,4 @@
-# 👋 Hi, I am Hassan Mohamed 
+# 👋 Hi, I am Ezzeldeen Mohamed 
 
 ## 💡 About Me  
 I am a **Full Stack Developer** and **Curriculum Developer** with expertise in **web and desktop development, .NET technologies, and Software Development**. I specialize in building **scalable web applications, desktop solutions, and full-stack systems** using **ASP.NET, .NET, Web APIs, XAML, HTML5, CSS3, and JavaScript**.  
@@ -34,6 +34,6 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 ---
 
 ## 📫 Let's Connect!  
-📧 **Email:** hassanmohamed997cb@gmail.com  
+📧 **Email:** ezzm80618@gmail.com  
 🌐 **GitHub:** [Hassan-Mohamed](https://github.com/Hassan-Mohamed1)  
 💼 **LinkedIn:** [Hassan-Mohamed]()  
