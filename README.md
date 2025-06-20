@@ -35,5 +35,5 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 
 ## 📫 Let's Connect!  
 📧 **Email:** ezzm80618@gmail.com  
-🌐 **GitHub:** [Ezzeldeen-Mohamed](https://github.com/Hassan-Mohamed1)  
-💼 **LinkedIn:** [Ezzeldeen-Mohamed]()  
+🌐 **GitHub:** [Ezzeldeen-Mohamed](https://github.com/Ezzeldeen-Mohamed)  
+💼 **LinkedIn:** [Ezzeldeen-Mohamed](https://www.linkedin.com/in/ezzeldeenmohamed)  
