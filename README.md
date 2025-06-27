@@ -37,5 +37,5 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 📧 **Email:** ezzm80618@gmail.com  
 🌐 **GitHub:** [Ezzeldeen-Mohamed](https://github.com/Ezzeldeen-Mohamed)  
 💼 **LinkedIn:** [Ezzeldeen-Mohamed](https://www.linkedin.com/in/ezzeldeenmohamed)  
-🧠 **Vjudge:** [Ezzeldeen-Mohamed](https://www.linkedin.com/in/ezzeldeenmohamed](https://vjudge.net/user/Ezzeldeen_ )  
+🧠 **Vjudge:** [Ezzeldeen-Mohamed](https://vjudge.net/user/Ezzeldeen_ )  
 
