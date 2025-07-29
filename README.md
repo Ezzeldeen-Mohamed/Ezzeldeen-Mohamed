@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Ezzeldeen Mohamed
 
-<h3 align="center">A Full Stack Developer passionate about building scalable web and mobile solutions. Always seeking new challenges to conquer!</h3>
+<h3 align="center">A Full Stack Developer passionate about building scalable web and mobile solutions with a strong focus on Angular-driven front-end development. Always seeking new challenges to conquer!</h3>
 
 <img align="right" alt="Hi" width="400" src="https://media4.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=790b7611f6ae398e7f961c1e7129940a45705e9d9e203cf3&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzeldeen-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="ezzeldeen-mohamed" /> </p>
 
 ## 💡 About Me  
-I'm a **Full Stack Developer** and **Curriculum Developer** passionate about crafting **scalable web and mobile applications** using **Angular**, **.NET**, **ASP.NET Web APIs**, and **Flutter**. With a beginner-level interest in **Python**, I focus on creating user-friendly solutions that solve real-world problems.  
+I'm a **Full Stack Developer** with a passion for crafting **scalable web and mobile applications**, specializing in **front-end development** using **Angular** to create dynamic, responsive user interfaces. I leverage **.NET**, **ASP.NET Web APIs**, and **Flutter** to build robust back-end and cross-platform mobile solutions. With a beginner-level interest in **Python**, I focus on delivering user-friendly applications that solve real-world problems.  
 
-I’m eager to join a **tech company** to deliver impactful software while leveraging my skills in **full-stack development, API integration, and technical education**. My goal is to build efficient applications and empower others through **mentorship and curriculum design**.
+I’m eager to join a **tech company** to create impactful software, utilizing my expertise in **full-stack development and API integration** to drive innovation.
 
 ---
 
@@ -17,7 +17,6 @@ I’m eager to join a **tech company** to deliver impactful software while lever
 🌐 **Front-End Development** – Creating dynamic, responsive web interfaces with **Angular**, **HTML5**, **CSS3**, and **JavaScript**.  
 🖥️ **Back-End Development** – Developing robust APIs and server-side logic with **.NET** and **ASP.NET**.  
 📱 **Mobile Development** – Building cross-platform mobile apps using **Flutter** and **Dart**.  
-🎓 **Tech Education** – Crafting engaging, hands-on **programming curricula** for modern technologies and mentoring aspiring developers in **software engineering** and **web development**.
 
 ---
 
@@ -33,16 +32,14 @@ I’m eager to join a **tech company** to deliver impactful software while lever
 | **Programming**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (Beginner) |
 | **Tools**            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
 
-### 🎓 Teaching & Mentorship  
-- **Curriculum Development**: Designing engaging courses for **Angular**, **.NET**, and **web development fundamentals**.  
-- **Project Leadership**: Guiding teams to deliver high-quality software solutions.  
-
 ---
 
 ## 🌟 Featured Project: Portfolio Website  
 This repository hosts my personal **portfolio website**, built with **Angular** for a dynamic, component-based front-end and integrated with **ASP.NET Web APIs** for back-end functionality. The site showcases my projects, skills, and certifications with a modern, responsive design, featuring smooth animations and a professional layout.  
 
-🔗 **Live Demo**: <a href="https://ezzeldeenmohamed.netlify.app" target="_blank">https://ezzeldeenmohamed.netlify.app</a>
+🔗 **Live Demo**: <a href="https://ezzeldeenmohamed.netlify.app" target="_blank">https://ezzeldeenmohamed.netlify.app</a>  
+
+---
 
 ## 📫 Let's Connect!  
 📧 **Email:** [ezzm80618@gmail.com](mailto:ezzm80618@gmail.com)  
