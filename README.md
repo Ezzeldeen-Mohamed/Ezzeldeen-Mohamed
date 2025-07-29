@@ -1,41 +1,67 @@
-# 👋 Hi, I am Ezzeldeen Mohamed 
+👋 Hi, I'm Ezzeldeen Mohamed
+A Full Stack Developer and AI enthusiast. Deeply fascinated by Machine Learning, Optimization, and building scalable solutions. Always seeking new challenges to conquer!
 
-## 💡 About Me  
-I am a **Full Stack Developer** and **Curriculum Developer** with expertise in **web and desktop development, .NET technologies, and Software Development**. I specialize in building **scalable web applications, desktop solutions, and full-stack systems** using **ASP.NET, .NET, Web APIs, XAML, HTML5, CSS3, and JavaScript**.  
+
+
+  
+
+💡 About Me
+I'm a Full Stack Developer and Curriculum Developer passionate about crafting scalable web and desktop applications using Angular, .NET, ASP.NET Web APIs, XAML, and Flutter. My interest in AI, machine learning, and optimization drives me to create innovative, user-friendly solutions that solve real-world problems.  
+I’m eager to join a tech company to deliver impactful software while leveraging my skills in full-stack development, API integration, and technical education. I aim to build efficient applications and empower others through mentorship and curriculum design.
+
+💻 What I Do
+🌐 Front-End Development – Creating dynamic, responsive web interfaces with Angular, HTML5, CSS3, and JavaScript.🖥️ Back-End & Desktop Development – Developing robust APIs and server-side logic with .NET, ASP.NET, and desktop apps with XAML.📱 Mobile Development – Building cross-platform mobile apps using Flutter and Dart.🤖 AI & Optimization – Exploring machine learning with Python, TensorFlow, and PyTorch to enhance application performance.🎓 Tech Education – Designing hands-on programming curricula and mentoring students in software engineering and web development.
+
+🔧 Skills & Technologies
+🖥️ Programming & Development
+
+
+
+Category
+Technologies
+
+
+
+Front-End
+    
+
+
+Back-End
+  
+
+
+Desktop Development
+
+
+
+Mobile Development
  
-I am looking for an opportunity to work with a **tech company** where I can apply my skills in **software development** to create impactful solutions.  
-
-Passionate about **teaching, mentoring, and developing impactful software**, I have experience in **full-stack development, API integration, curriculum design, and technical education**. My goal is to create efficient and user-friendly applications that bridge the gap between technology and real-world solutions.  
- 
-
----
-
-## 💡 What I Do  
-🌐 **Web & Desktop Development** – Building dynamic **web applications** with **ASP.NET, .NET, and Web APIs**, alongside **desktop applications** using **XAML and .NET**.  
-🎓 **Tech Education & Mentorship** – Teaching and mentoring students in **.NET, Web Development, and Software Engineering**.  
-🏗 **Curriculum Design** – Creating structured, hands-on programming courses focused on modern technologies.  
-💻 **Full-Stack Development** – Developing both **frontend and backend** solutions using **HTML, CSS, JavaScript, and .NET** to deliver seamless user experiences.  
 
 
----
+Databases
+  
 
-## 🔧 Skills & Technologies  
 
-### 🖥️ **Programming & Development**  
-| **Category**        | **Technologies** |
-|---------------------|-----------------|
-| **Web Development** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ASP.NET Web APIs](https://img.shields.io/badge/ASP.NET_Web_APIs-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| **Desktop Development** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat&logo=windows&logoColor=white) |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![ASP.NET Web APIs](https://img.shields.io/badge/ASP.NET_Web_APIs-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| **Databases** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Teaching & Mentorship** | Curriculum Development, Project Management |
+AI & Data Science
+   
 
- 
----
 
-## 📫 Let's Connect!  
-📧 **Email:** ezzm80618@gmail.com  
-🌐 **GitHub:** [Ezzeldeen-Mohamed](https://github.com/Ezzeldeen-Mohamed)  
-💼 **LinkedIn:** [Ezzeldeen-Mohamed](https://www.linkedin.com/in/ezzeldeenmohamed)  
-🧠 **Vjudge:** [Ezzeldeen-Mohamed](https://vjudge.net/user/Ezzeldeen_ )  
+Tools
+  
 
+
+🎓 Teaching & Mentorship
+
+Curriculum Development: Crafting engaging courses for Angular, .NET, and AI fundamentals.  
+Project Leadership: Guiding teams to deliver high-quality software solutions.
+
+
+🌟 Featured Project: Portfolio Website
+This repository hosts my personal portfolio website, built with Angular for a dynamic, component-based front-end and integrated with ASP.NET Web APIs for back-end functionality. The site showcases my projects, skills, and certifications with a modern, responsive design, featuring smooth animations and a professional layout.  
+🔗 Live Demo: [Insert deployed URL here, e.g., Netlify, Vercel, or GitHub Pages]📂 Source Code: [Link to this repository]  
+
+📫 Let's Connect!
+📧 Email: ezzm80618@gmail.com🌐 GitHub: Ezzeldeen-Mohamed💼 LinkedIn: Ezzeldeen-Mohamed🧠 Vjudge: Ezzeldeen-Mohamed  
+
+🚀 What's Next?
+I’m excited to tackle innovative projects, from building Angular-driven web apps to exploring AI-enhanced solutions. Let’s collaborate to create something extraordinary!
