@@ -42,8 +42,7 @@ I’m eager to join a **tech company** to deliver impactful software while lever
 ## 🌟 Featured Project: Portfolio Website  
 This repository hosts my personal **portfolio website**, built with **Angular** for a dynamic, component-based front-end and integrated with **ASP.NET Web APIs** for back-end functionality. The site showcases my projects, skills, and certifications with a modern, responsive design, featuring smooth animations and a professional layout.  
 
-🔗 **Live Demo**: [https://ezzeldeenmohamed.netlify.app]  
----
+🔗 **Live Demo**: <a href="https://ezzeldeenmohamed.netlify.app" target="_blank">https://ezzeldeenmohamed.netlify.app</a>
 
 ## 📫 Let's Connect!  
 📧 **Email:** [ezzm80618@gmail.com](mailto:ezzm80618@gmail.com)  
