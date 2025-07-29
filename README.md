@@ -9,7 +9,6 @@
 ## 💡 About Me  
 I'm a **Full Stack Developer** with a passion for crafting **scalable web and mobile applications**, specializing in **front-end development** using **Angular** to create dynamic, responsive user interfaces. I leverage **.NET**, **ASP.NET Web APIs**, and **Flutter** to build robust back-end and cross-platform mobile solutions. With a beginner-level interest in **Python**, I focus on delivering user-friendly applications that solve real-world problems.  
 
-I’m eager to join a **tech company** to create impactful software, utilizing my expertise in **full-stack development and API integration** to drive innovation.
 
 ---
 
