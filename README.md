@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** specializing in **back-end development** with **.
 
 ## 💻 What I Do  
 🖥️ **Back-End Development** – Building robust APIs and server-side logic with **.NET**, **ASP.NET**, and **C#** to power scalable applications.  
-🌐 **Front-End Development** – Creating dynamic, responsive web interfaces with **Angular**, **HTML5**, **CSS3**, and **JavaScript**.  
+🌐 **Front-End Development** – Creating dynamic, responsive web interfaces with **Angular**, **HTML5**, **CSS3**, **JavaScript** , **TypeScript**.  
 📱 **Mobile Development** – Developing cross-platform mobile apps using **Flutter** and **Dart**.  
 
 ---
